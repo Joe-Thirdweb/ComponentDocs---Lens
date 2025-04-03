@@ -1,6 +1,6 @@
 # Account Abstraction
 
-[thirdweb ](https://portal.thirdweb.com/connect/account-abstraction/overview)offers a complete platform to leverage account abstraction.
+[thirdweb ](https://portal.thirdweb.com/connect/account-abstraction/overview?utm_source=lens&utm_medium=docs)offers a complete platform to leverage account abstraction.
 
 Remove the clunky user experience of requiring gas & signatures for every onchain action.
 
@@ -11,5 +11,5 @@ Remove the clunky user experience of requiring gas & signatures for every onchai
 
 ## Get Started
 
-1. Sign up for a [free thirdweb account](https://thirdweb.com/team)
-2. Visit [Account Abstraction Documentation](https://portal.thirdweb.com/connect/account-abstraction/how-it-works) and [Account Abstraction Playground](https://playground.thirdweb.com/connect/account-abstraction/connect)
+1. Sign up for a [free thirdweb account]([https://thirdweb.com/team](https://thirdweb.com/team?utm_source=lens&utm_medium=docs))
+2. Visit [Account Abstraction Documentation](https://portal.thirdweb.com/connect/account-abstraction/how-it-works?utm_source=lens&utm_medium=docs) and [Account Abstraction Playground](https://playground.thirdweb.com/connect/account-abstraction/connect?utm_source=lens&utm_medium=docs)
