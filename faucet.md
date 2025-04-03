@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-The [thirdweb Faucet](https://thirdweb.com/lens-network-sepolia-testnet) provides free testnet GRASS on the Lens Sepolia Testnet - one claim per 24 hours.
+The [thirdweb Faucet](https://thirdweb.com/lens-network-sepolia-testnet?utm_source=lens&utm_medium=docs) provides free testnet GRASS on the Lens Sepolia Testnet - one claim per 24 hours.
 
 ## Need extra help?
 
