@@ -8,7 +8,7 @@ thirdweb Insight is a fast, reliable and fully customizable way for developers t
 
 
 
-Start building with [thirdweb Insight](https://portal.thirdweb.com/insight)
+Start building with [thirdweb Insight](https://portal.thirdweb.com/insight?utm_source=lens&utm_medium=docs)
 
 
 
@@ -24,4 +24,4 @@ thirdweb Insight can be used to:
 
 ## Get Started
 
-Sign up for a [free thirdweb account](https://thirdweb.com/team), visit the [thirdweb Insight documentation](https://portal.thirdweb.com/insight/get-started)
+Sign up for a [free thirdweb account](https://thirdweb.com/team?utm_source=lens&utm_medium=docs), visit the [thirdweb Insight documentation](https://portal.thirdweb.com/insight/get-started?utm_source=lens&utm_medium=docs)
