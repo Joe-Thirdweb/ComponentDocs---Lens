@@ -4,4 +4,4 @@ A seamless onboarding experience is crucial for user adoption. The `ConnectButto
 
 ## Click the guide below!
 
-{% embed url="https://blog.thirdweb.com/guides/how-to-add-a-connect-wallet-to-your-ethereum-app/" %}
+{% embed url="https://blog.thirdweb.com/guides/how-to-add-a-connect-wallet-to-your-ethereum-app?utm_source=lens&utm_medium=docs" %}
