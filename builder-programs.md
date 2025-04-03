@@ -8,14 +8,12 @@ Our startup program is designed to help you build, scale, and generate revenue.
 
 thirdweb, we're committed to ensuring that the next wave of consumer applications can focus on creating excellent user experiences with blockchain as a powerful backend tool, without worrying about infrastructure or associated costs.Comment
 
-### Over $690 in value  <a href="#over-usd690-in-value" id="over-usd690-in-value"></a>
+### Comprehensive cohort for founders  <a href="#comprehensive" id="comprehensive"></a>
 
-* $100 in usage credits
-* 3 Months of Growth for $0 ($297 Value)
-* 3 Months of Standard Engine $0 ($297 Value)
-
-Comment
-
+* Completely free with no hidden costs
+* Access to thirdweb engineers and experts
+* Personalized solutions for your use case
+* Perks package and grant opportunities
 
 
-{% embed url="https://thirdweb.com/community/startup-program" %}
+{% embed url="https://thirdweb.com/community/startup-program?utm_source=lens&utm_medium=docs" %}
