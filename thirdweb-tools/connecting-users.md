@@ -10,5 +10,5 @@
 
 ## Get Started
 
-1. Sign up for a [free thirdweb account](https://thirdweb.com/team)
-2. Visit [Connect Documentation](https://portal.thirdweb.com/connect/sign-in/ConnectButton) and [Connect Playground](https://playground.thirdweb.com/connect/sign-in/button)
+1. Sign up for a [free thirdweb account](https://thirdweb.com/team?utm_source=lens&utm_medium=docs)
+2. Visit [Connect Documentation](https://portal.thirdweb.com/connect/sign-in/ConnectButton?utm_source=lens&utm_medium=docs) and [Connect Playground](https://playground.thirdweb.com/connect/sign-in/button?utm_source=lens&utm_medium=docs)
